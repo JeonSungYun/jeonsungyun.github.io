@@ -6,8 +6,8 @@ description: "Markdown Cheatsheet Demo..."
 keywords: "markdown, typography components, dummy content"
 ---
 
-## StackEdit Link
-https://stackedit.io/editor
+## [https://stackedit.io/editor](StackEdit Link)
+
 
 ## Typography Elements in One
 
