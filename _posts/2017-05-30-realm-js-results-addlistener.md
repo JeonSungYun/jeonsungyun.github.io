@@ -3,7 +3,7 @@ layout: post
 title: "realm js 에서 Results.addListener"
 comments: true
 description: "realm js 에서 Results.addListener"
-keywords: "dummy content"
+keywords: "realm js, results.addlistener"
 ---
 
 Collection notifications 기능에서 당연히 콜백에서 변경된 내용이 넘어어고, 콜백이 호출된 시점에 받아보는 내용은 변경이 완료된 내용인줄 알았다. 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "If you have a Guest post.."
+title: "react native 에서 tcomb 라이브러리(gcanti/tcomb-form-native) 쓸 때, 예제에서 처음 겪는 에러"
 comments: true
-description: "If you have a Guest post.."
-keywords: "dummy content"
-author: GuestName
+description: "react native 에서 tcomb 라이브러리(gcanti/tcomb-form-native) 쓸 때, 예제에서 처음 겪는 에러"
+keywords: "react native, tcomb, tcomb-form-native"
 ---
 
 현재 글 쓰는 시점에서, 
