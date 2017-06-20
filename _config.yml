@@ -1,14 +1,14 @@
 
 # SEO settings
-title: "Pages for "
-title2: "roland"
+title: "Think"
+title2: "space"
 description: ""
-keywords: "android, react-native, python"
-url: http://roland.github.io
+keywords: "jeonsungyun, android, react-native, python"
+url: http://jeonsungyun.github.io
 baseurl: null # apply null if repo name is something like username.github.io
 
 # google_analytics: UA-XXXXX-XX
-repo: https://github.com/JeonSungYun/roland.github.io
+repo: https://github.com/JeonSungYun/jeonsungyun.github.io
 # disqus_shortname: "hnbloggithub"
 # twitter_username: "HeiswayiNrird"
 comments: true
@@ -33,10 +33,10 @@ author:
   bio      : "Here is many gemstones for us"
   thumb    : /images/author.jpg
   email    : roland.korea@gmail.com
-  url      : http://roland.github.io
+  url      : http://jeonsungyun.github.io
   github   : https://github.com/JeonSungYun
   facebook : https://www.facebook.com/jeonsungyun
-  linkedin : https://www.linkedin.com/in/jeonsungyun/
+  linkedin : https://www.linkedin.com/in/jeonsungyun
 
 # social settings
 # og_locale: "en_US"
