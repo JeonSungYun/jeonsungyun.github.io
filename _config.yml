@@ -2,7 +2,7 @@
 # SEO settings
 title: "Think"
 title2: "space"
-description: ""
+description: "My technical notes"
 keywords: "jeonsungyun, android, react-native, python"
 url: http://jeonsungyun.github.io
 baseurl: null # apply null if repo name is something like username.github.io
