@@ -11,7 +11,7 @@ keywords: "windows, venv, pip3, unicodedecorderror, utf8"
 
  python -c 'import sys;sys.getdefaultencoding()' 하면 'utf-8' 로 뜬다. 당황해서 차근차근히 에러를 잡다보니, 다음과 같이 해결했다.
 
->venv\Lib\site-packages\pip\compat\__init__.py 의 75번째 줄을 
+>venv\\Lib\\site-packages\\pip\\compat\\\_\_init\_\_.py 의 75번째 줄을 
 return s.decode('utf_8') 에서 return s.decode('cp949') 로 바꾼다.
 
 이유는 s 에 해당하는 문자열들을 print 해서 찍어보니, 모듈 컴파일하다가 Visual Studio C/C++ 측의 에러 텍스트를 CP949 인코딩으로 넘겨주는 경우를 보았고, 이것을 해석 못해서 에러나는 것이었다.

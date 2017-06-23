@@ -6,7 +6,7 @@ description: "JVM과 DalvikVM 메모리 구조"
 keywords: "jvm, dalvik"
 ---
 
-[https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf](The Java® Virtual Machine Specification : Java SE 8 Edition) 에 의하면, 
+[The Java® Virtual Machine Specification : Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf) 에 의하면, 
 
 JVM의 런타임 가상 메모리 구조(데이터 영역)는 아래와 같이 6가지로 나뉘어져 있다. 각 영역은 JVM의 생명 주기를 따르거나, JVM이 관리하는 Thread 의 생명주기를 따른다.
 
@@ -40,6 +40,6 @@ JVM의 런타임 가상 메모리 구조(데이터 영역)는 아래와 같이 6
 
 그렇다면, JVM 과 Dalvik VM 은 어떻게 다른 것인가?
 
-Dalvik VM 은 JVM 을 변형한 것이고, JVM 은 [https://en.wikipedia.org/wiki/Stack_machine](Stack Machine), Dalvik 은 [https://en.wikipedia.org/wiki/Register_machine](Register Machine) 이다.
+Dalvik VM 은 JVM 을 변형한 것이고, JVM 은 [Stack Machine](https://en.wikipedia.org/wiki/Stack_machine), Dalvik 은 [Register Machine](https://en.wikipedia.org/wiki/Register_machine) 이다.
 
-주요 변형 목적은 mobile hardware 에 최적화 하기 위함이며, 이와 문맥을 같이하는 하드웨어적인 노력의 일환이 [https://en.wikipedia.org/wiki/Jazelle](Jazelle) 이다.
+주요 변형 목적은 mobile hardware 에 최적화 하기 위함이며, 이와 문맥을 같이하는 하드웨어적인 노력의 일환이 [Jazelle](https://en.wikipedia.org/wiki/Jazelle) 이다.

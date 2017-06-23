@@ -13,5 +13,5 @@ Collection notifications 기능에서 당연히 콜백에서 변경된 내용이
 지금 시점에 아직 고쳐지지 않았으나, 이걸 고쳐야하는지 말아야하는지에 대한 의견이 분분..하다? 
 
 
-https://github.com/realm/realm-js/issues/927
+https://github.com/realm/realm-js/issues/927 <br>
 https://github.com/realm/realm-js/issues/950
