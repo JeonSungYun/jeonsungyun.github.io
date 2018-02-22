@@ -17,3 +17,4 @@ ipython 설정 디렉터리(e.g. ```~/.ipython/```)에 ```profile_default/ipytho
 c.InteractiveShellApp.exec_lines=[
     'import sys; sys.path.append(\"path/to/add\")'
 ]
+```
